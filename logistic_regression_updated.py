@@ -13,6 +13,11 @@ import time
 
 SEED = 25
 
+# JaySha - Start
+# too slow to get result
+# JaySha - End
+
+
 def group_data(data, degree=3, hash=hash):
     """ 
     numpy.array -> numpy.array
